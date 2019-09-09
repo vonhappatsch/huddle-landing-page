@@ -1,7 +1,6 @@
 # Test the result here:
 [The page](https://vonhappatsch.github.io/huddle-landing-page)
 
-## The project
 
 ## Frontend Mentor - Huddle landing page with alternating feature blocks
 
